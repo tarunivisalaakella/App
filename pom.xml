@@ -23,8 +23,8 @@
    <artifactId>tomcat7-maven-plugin</artifactId>
    <version>2.2</version>
    <configuration>
-  	 <url>http://104.196.176.231:8888/manager/gui</url>
-  	 <server>TomcatServer2</server>
+  	 <url>http://104.196.176.231:8888/manager/text</url>
+  	 <server>TomcatServer1</server>
   	 <path>/app</path>
    </configuration>
 </plugin>
